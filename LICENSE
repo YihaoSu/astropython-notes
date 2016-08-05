@@ -1,3 +1,21 @@
-本著作採用 創用CC：[姓名標示-相同方式分享] 授權 (http://creativecommons.org/licenses/)
+The MIT License (MIT)
 
-本授權條款允許使用者對你的著作進行重混、調整，以及依原著作建立新著作（包括商業與非商業性利用），惟使用時必須按照你指定的方式表彰你的姓名，並且產出之新創著作也必須採用相同的授權條款釋出。本授權條款常被類比為「著佐權（copyleft）」性質的自由開源軟體授權條款。所有依原著作建立的新創著作，都將會帶著相同的授權條款，因此任何的衍生著作也都容許商業性的利用。這是維基百科（Wikipedia）所採用的授權條款，而若是素材可因吸納維基百科或相類似授權專案的內容而得益，則建議可以採用本授權條款。
+Copyright (c) 2015, 2016 Yi-Hao Su
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
