@@ -33,6 +33,4 @@ E-mail：yhsu@astro.ncu.edu.tw
 
 Facebook：https://www.facebook.com/elantievs
 
-網站 My Website：http://www.astro.ncu.edu.tw/~yhsu/yhsu/
-
 =======
